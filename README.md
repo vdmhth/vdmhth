@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vdmhth
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning DS & AI
+- 👀 I'm currently a DS-AI student at HUST.
+  
 
 
 <!---
